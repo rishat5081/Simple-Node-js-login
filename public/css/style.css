@@ -1,0 +1,188 @@
+/* 
+**************************************** header.EJS file  ***************************************** */
+
+#mainLogo {
+  margin: 45px 0px 0px 45px;
+  width: 70px;
+  height: 70px;
+}
+
+/* 
+**************************************** footer.EJS file  ***************************************** */
+
+.footer {
+  margin: 200px 0px 0px 0px;
+  padding: 100px;
+  background-color: #292929;
+}
+
+/* 
+**************************************** login.EJS file  ***************************************** */
+
+.login_form_div {
+  margin: 50px 0px 0px 120px;
+  padding: 10px 0px 0px 0px;
+}
+
+.container h3 {
+  margin: 0px 0px 10px 335px;
+}
+
+.login_form_div input {
+  width: 75%;
+}
+
+.login_form_div label:after {
+  content: " *";
+  color: red;
+}
+
+.Login_Button {
+  padding: 50px 0px 10px 10px;
+}
+
+.Login_Button button {
+  width: 100px;
+  text-align-last: center;
+  margin: 0px 0px 0px 170px;
+  background-color: #292929;
+}
+
+.Login_Button button:hover {
+  background-color: #4d2727;
+}
+
+.req.flash_messages_div {
+  width: 25%;
+}
+
+#show_password_image {
+  position: relative;
+  margin: -75px 0px -10px 360px;
+}
+.loginHeading{
+  text-align: center;
+}
+/* 
+**************************************** Home Page .EJS file  ***************************************** */
+
+.homePage_Div {
+  padding: 0px 0px 20px 0px;
+}
+
+.Homecontainer {
+  width: 100%;
+  margin: 50px 0px 0px 450px;
+  text-align: justify;
+  padding: 10px 0px 0px 0px;
+}
+
+.Homecontainer h3 {
+  text-align: center;
+  margin: 0px 0px 40px 0px;
+}
+
+/* 
+**************************************** Sign Up Page .EJS file  ***************************************** */
+
+.signUP_text {
+  margin: 50px 0px 10px 0px;
+}
+
+.navigationBar {
+  width: 20%;
+  float: right;
+}
+
+/* 
+**************************************** User Profile Page .EJS file  ***************************************** */
+
+.user_Profile {
+  margin: 50px 0px 10px 0px;
+}
+
+#call_Center_info_div {
+  margin: 20px 0px 40px 0px;
+  text-align: justify;
+}
+
+.card-header {
+  background-color: #ffffff !important;
+  /* border: 1px solid #292929 !important; */
+  /* box-shadow: 10px 10px #292929; */
+}
+
+.card {
+  /* border: 1px solid #292929 !important; */
+  box-shadow: 3px 3px 10px gray;
+}
+
+.card-body h6 {
+  padding: 10px;
+  color: gray;
+}
+
+.textArea_box_card {
+  box-shadow: 3px 3px 10px gray;
+}
+
+.textArea_userProfile {
+  padding: 30px;
+  box-shadow: 3px 3px 10px gray;
+}
+
+#edit_field_icon {
+  float: right;
+}
+
+/* -------------------------Modal to edit the input fields--------------------------- */
+
+#change_fieldsModal {
+  align-items: center;
+  margin: 150px 0px 0px 0px;
+  width: 100%;
+}
+
+#change_input_user_profile_modalbody {
+  padding: 30px;
+}
+
+#modal_save_btn {
+  background-color: #279CD8 !important;
+  color: #292929 !important;
+  font-weight: 600;
+}
+
+#modal_save_btn:hover {
+  color: #279CD8 !important;
+  background-color: #292929 !important;
+  font-weight: 600;
+}
+
+#modal_close_btn:hover {
+  background-color: #279CD8 !important;
+  color: #292929 !important;
+  font-weight: 600;
+  border: 1px solid transparent;
+}
+#modal_close_btn{
+  /* background-color: #279CD8 !important; */
+  color: #279CD8 !important;
+  font-weight: 600;
+  border: 1px solid transparent;
+}
+
+/* .one {
+  display: table;
+}
+
+.second {
+  display: table-row;
+}
+.second h6 {
+  display: table-cell;
+} */
+
+/* ---------------------------------------------------- */
+
+/* ---------------------------------------------------- */
