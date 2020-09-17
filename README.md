@@ -1,6 +1,6 @@
 # Node Js Simple Login
 
-It includes the `EJS`,`Passport`, `Express-messages`, `Cookie-Parser`, `Body-Parser`
+It includes the `EJS`,`Passport`, `Express-messages`, `Cookie-Parser`, `Body-Parser` and many others
 
 # How to use this project 
 
